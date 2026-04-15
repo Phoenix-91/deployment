@@ -28,6 +28,7 @@ This project provides visual documentation and planning resources for deploying 
 - S3 bucket configuration for static assets
 - Edge location caching strategies
 - Origin failover and redundancy
+  
 
 ### Object Storage
 - AWS S3 integration
@@ -117,5 +118,5 @@ For questions or improvements to the architecture diagrams, please:
 3. Update this README with any architectural changes
 
 ---
-
+This Repo is just my basic understanding of deployment....
 **Last Updated**: April 9, 2026
